@@ -1,4 +1,4 @@
-# Car-image-dataset-curtation-CV-Image-Augmentation
+# Car-image-dataset-curation-CV-Image-Augmentation
 Curation of car image dataset using Image Augmentation in Computer Vision
 
 DOMAIN: Automobile
